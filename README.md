@@ -27,9 +27,11 @@
 ![](images/next_enable.jpg)
 
 6. Again write a word:
+
 ![](images/wrong_word.jpg)
 
 7. Shows wrong messages if the word is correct:
+
 ![](images/wrong_msg.jpg)
 
 8. Capslock in the keyboard to write necessary word or letter:
