@@ -6,13 +6,14 @@
 
 # Screenshot of this application added below:
 
-❮img src="images/1.jpg" width="100" ❯
-❮img src="images/2.jpg" width="100" ❯
-❮img src="images/3.jpg" width="100" ❯
-❮img src="images/result_right.jpg" width="100" ❯
-❮img src="images/next enable.jpg" width="100" ❯
-❮img src="images/c.jpg" width="100" ❯
-❮img src="images/wrong ord.jpg" width="100" ❯
-❮img src="images/wrong msg.jpg" width="100" ❯
-❮img src="images/quit msg.jpg" width="100" ❯
-❮img src="images/total.jpg" width="100" ❯
+
+![](images/1.jpg)
+![](images/2.jpg)
+![](images/3.jpg)
+![](images/result_right.jpg)
+![](images/next enable.jpg)
+![](images/c.jpg)
+![](images/wrong ord.jpg)
+![](images/wrong msg.jpg)
+![](images/quit msg.jpg)
+![](images/quit msg.jpg)
