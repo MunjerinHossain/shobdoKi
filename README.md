@@ -2,7 +2,7 @@
  1. It's an offline game
  2. Phonetic Bengali word lookup.
  3. Learning Bengali words with its definition.
- 4. Get a score with its difficulty level.
+ 4. Get a score with the word difficulty level.
 
 # Screenshot of this application added below:
 
